@@ -3,23 +3,21 @@ description: A new Flutter project.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.3
-  oktoast: ^3.0.0
+  cupertino_icons: ^1.0.6
+  oktoast: ^3.3.2
   image: ^3.0.2
   esc_pos_bluetooth:
     path: ../../
-  esc_pos_utils: ^1.1.0
-  # esc_pos_utils:
-  # path: ../../../esc_pos_utils
-  charset_converter: ^2.0.0
-  intl: ^0.17.0
-  qr_flutter: ^4.0.0
-  path_provider: ^2.0.2
+  yjy_esc_pos_utils: ^1.1.3
+  charset_converter: ^2.1.1
+  intl: ^0.18.1
+  qr_flutter: ^4.1.0
+  path_provider: ^2.1.1
 
 dev_dependencies:
   flutter_test:
