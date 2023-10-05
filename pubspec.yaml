@@ -12,7 +12,9 @@ dependencies:
   rxdart: ^0.27.7
   
   flutter_bluetooth_basic: 
-    path: /Users/sumitkakshapati/Documents/work/rara/flutter_bluetooth_basic
+    git: 
+      url: https://github.com/sumitkakshapati/flutter_bluetooth_basic.git
+      ref: 44be678702be2076a66efd5cb4dc6f35a3cecb11
 
 
 dev_dependencies:
