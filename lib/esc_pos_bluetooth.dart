@@ -9,3 +9,4 @@ library esc_pos_bluetooth;
 
 export './src/enums.dart';
 export './src/printer_bluetooth_manager.dart';
+export 'package:flutter_bluetooth_basic/flutter_bluetooth_basic.dart';
